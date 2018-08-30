@@ -1,0 +1,27 @@
+{
+  "name": "learn-basic-react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeltamsil/learn-basic-react-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeltamsil/learn-basic-react-redux/issues"
+  },
+  "homepage": "https://github.com/michaeltamsil/learn-basic-react-redux#readme",
+  "dependencies": {
+    "react-redux": "^5.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
